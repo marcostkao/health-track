@@ -1,0 +1,38 @@
+body, form, h1 {
+    background-color: black;
+    color: #D6952B;
+    margin: 0;
+}
+
+h1 {
+    font-size: 34px;
+}
+
+label {
+    color: #D6952B;
+}
+
+.card {
+    border: 2px solid #D6952B;
+    padding: 15px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+.form-control {
+    background-color: #2B2B2B;
+    display: flex;
+    align-items: center;
+}
+
+.btn-login {
+    background-color: #D6952B;
+}
+
+
+footer {
+    text-align: center;
+   
+    padding: 200px 0;
+
+}
